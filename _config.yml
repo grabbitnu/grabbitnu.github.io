@@ -1,0 +1,20 @@
+# Site settings
+title: Zhenyu Zhang's Uroboros
+email: zyzhang_nuaa@qq.com
+description: "Hi, here is my workshop for code testing and progeamming, including some codes of computational fluid dynamics and relevant tricks."
+baseurl: /grabbitnu.github.io
+#url: "http://yourdomain.com"
+#twitter_username: grabbitnu
+github_username:  grabbitnu
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+highlighter: pygments
+github: [Repository metadata]
+
+safe: true
+auto: true
+lsi: false
+#source: ./

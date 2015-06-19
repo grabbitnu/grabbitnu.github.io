@@ -1,0 +1,5 @@
+source 'https://ruby.taobao.org'
+#source 'https://rubygems.org'
+gem 'i18n', '~> 0.7.0'
+gem 'json', '~> 1.8.3'
+gem 'github-pages'
